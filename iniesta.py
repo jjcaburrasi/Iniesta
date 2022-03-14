@@ -23,7 +23,7 @@ wn.tracer(0)
 #Creo circulo central
 centro= turtle.Turtle ()
 centro.penup()
-centro.goto(0, -175)
+centro.goto(0, -170)
 centro.pendown()
 centro.pensize(10)
 centro.pencolor("white")
